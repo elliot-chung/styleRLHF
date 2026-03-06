@@ -1,0 +1,7 @@
+.cursor
+.cursorrules
+.env
+venv/
+
+data/
+
