@@ -234,7 +234,7 @@ python -m src.train_sft --corpus data/catalog.csv --num-outfits 5000 --epochs 20
 
 Defaults use `data/catalog.csv` from config if you omit `--corpus`. Model is saved to `outputs/sft_model.pt`.
 
-**3. Collect preferences (optional; requires API key)**
+**3. Collect preferences (requires API key)**
 
 Set an API key, then run:
 
